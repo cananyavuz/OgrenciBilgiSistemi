@@ -1,0 +1,29 @@
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\bin\Debug\ogrenci_bilgi_sistemi.exe.config
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\bin\Debug\ogrenci_bilgi_sistemi.exe
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\bin\Debug\ogrenci_bilgi_sistemi.pdb
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.AssemblyReference.cache
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.Form1.resources
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.Properties.Resources.resources
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.GenerateResource.cache
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.exe
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.pdb
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.notBilgisi.resources
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.dersEkleBırak.resources
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.AlinanDersler.resources
+C:\Users\CANAN\Desktop\proje\Yeni klasör\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.MüfredatDurum.resources
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\bin\Debug\ogrenci_bilgi_sistemi.exe.config
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\bin\Debug\ogrenci_bilgi_sistemi.exe
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\bin\Debug\ogrenci_bilgi_sistemi.pdb
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.AssemblyReference.cache
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.FormAnaEkran.resources
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.AlinanDersler.resources
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.FormMüfredatDurum.resources
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.FormNotBilgisi.resources
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.Properties.Resources.resources
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.GenerateResource.cache
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.exe
+C:\Users\CANAN\Desktop\proje\ogrenci_bilgi_sistemi\ogrenci_bilgi_sistemi\obj\Debug\ogrenci_bilgi_sistemi.pdb
